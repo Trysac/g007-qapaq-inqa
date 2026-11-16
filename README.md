@@ -16,12 +16,12 @@ golden idols that open each Sun Gate, and face the Stone Puma that guards the la
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Unity-Game-Qapaq-Inqa](https://trysac.github.io/Unity-Game-Qapaq-Inqa/)
+- **In your browser:** [trysac.github.io/g007-qapaq-inqa](https://trysac.github.io/g007-qapaq-inqa/)
 - **On itch.io:** [trysac.itch.io/qapaq-inqa](https://trysac.itch.io/qapaq-inqa)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Unity-Game-Qapaq-Inqa.git
+  git clone https://github.com/Trysac/g007-qapaq-inqa.git
   ```
 
 ## Run it
